@@ -1,0 +1,27 @@
+body {
+    background-color: darkslategray;
+}
+
+div.logo {
+    display: flex;
+    align-items: center;
+}
+
+h1.principale {
+    color:cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 8000px; /*Old: 500px*/
+    margin-top: 20px;
+}
+
+img.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+    margin-left: 360px; /*Old: 500px*/
+    margin-top: -50px;
+}
