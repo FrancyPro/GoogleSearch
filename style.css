@@ -1,7 +1,9 @@
+/*Site Background*/
 body {
     background-color: darkslategray;
 }
 
+/*Logo and Text*/
 div.logo {
     display: flex;
     align-items: center;
@@ -28,6 +30,7 @@ img.image {
     cursor: pointer;
 }
 
+/*Searchbar*/
 div.search {
     display: flex;
     align-items: center;
