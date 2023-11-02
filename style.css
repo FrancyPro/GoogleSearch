@@ -14,6 +14,7 @@ h1.principale {
     text-align: center;
     margin-right: 8000px; /*Old: 500px*/
     margin-top: 20px;
+    cursor: pointer;
 }
 
 img.image {
@@ -24,4 +25,39 @@ img.image {
     height: 10%;
     margin-left: 360px; /*Old: 500px*/
     margin-top: -50px;
+    cursor: pointer;
+}
+
+div.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button.button {
+    background-color: #04AA6D;
+    border: none;
+    color: rgb(75, 63, 63);
+    padding: 20px; /*Old: 28px*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+input#bar {
+    background-color: #04AA6D;
+    border: none;
+    color: rgb(75, 63, 63);
+    padding: 20px;
+    text-align: start;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    cursor: text;
 }
