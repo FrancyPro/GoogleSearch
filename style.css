@@ -37,7 +37,7 @@ div.search {
     justify-content: center;
 }
 
-button.button {
+button#button {
     background-color: #04AA6D;
     border: none;
     color: rgb(75, 63, 63);
