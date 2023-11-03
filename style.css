@@ -17,7 +17,7 @@ h1.principale {
     text-align: center;
     /*margin-right: 8000px; //Old: 500px//
     margin-top: 20px;*/
-    margin: 0 0px;
+    margin: 0 13px;
     margin-top: 1.7%;
     cursor: pointer;
 }
@@ -30,7 +30,7 @@ img.image {
     height: 10%;
     /*margin-left: 360px; //Old: 500px//
     margin-top: -50px;*/
-    margin: 0 0px;
+    margin: 0 -13px;
     margin-top: -1.7%;
     cursor: pointer;
 }
